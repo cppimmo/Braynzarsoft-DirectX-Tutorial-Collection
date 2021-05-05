@@ -62,11 +62,13 @@ this<br> repository and from the DirectX tutorial collections on the website is 
 | Tutorial Number | Status |
 | ------------ | ------------ |-->
 
-<style>
-    .green {
-        color: green;
-    }
-    .red {
-        color: red;
-    }
-</style>
+<head>
+  <style>
+      .green {
+          color: green;
+      }
+      .red {
+          color: red;
+      }
+  </style>
+<head>
